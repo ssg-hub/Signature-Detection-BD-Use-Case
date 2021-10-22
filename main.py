@@ -1,4 +1,4 @@
-from utils.preprocessing import make_df, str_way, rearrange_data, sig_classifier
+from preprocessing import make_df, str_way, rearrange_data, sig_classifier
 
 # defining the path and string to find in case a signature is present
 path  = '/assets/becode-signature-object-detection/train_xml'
